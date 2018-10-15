@@ -1,0 +1,45 @@
+2018-10-12 13:34:50 INFO  SockSEmov:46 - Socket time out
+java.net.SocketTimeoutException: Accept timed out
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:545)
+	at java.net.ServerSocket.accept(ServerSocket.java:513)
+	at server.SockSEmov.run(SockSEmov.java:30)
+2018-10-12 13:35:00 INFO  SockSEmov:46 - Socket time out
+java.net.SocketTimeoutException: Accept timed out
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:545)
+	at java.net.ServerSocket.accept(ServerSocket.java:513)
+	at server.SockSEmov.run(SockSEmov.java:30)
+2018-10-12 13:35:10 INFO  SockSEmov:46 - Socket time out
+java.net.SocketTimeoutException: Accept timed out
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:545)
+	at java.net.ServerSocket.accept(ServerSocket.java:513)
+	at server.SockSEmov.run(SockSEmov.java:30)
+2018-10-12 13:35:20 INFO  SockSEmov:46 - Socket time out
+java.net.SocketTimeoutException: Accept timed out
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:545)
+	at java.net.ServerSocket.accept(ServerSocket.java:513)
+	at server.SockSEmov.run(SockSEmov.java:30)
+2018-10-12 13:36:00 INFO  SockSEmov:46 - Socket time out
+java.net.SocketTimeoutException: Accept timed out
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:545)
+	at java.net.ServerSocket.accept(ServerSocket.java:513)
+	at server.SockSEmov.run(SockSEmov.java:30)
+2018-10-14 00:38:19 DEBUG HelloExample:10 - This is debug : clsm
+2018-10-14 00:38:19 INFO  HelloExample:14 - This is info : clsm
+2018-10-14 00:38:19 WARN  HelloExample:17 - This is warn : clsm
+2018-10-14 00:38:19 ERROR HelloExample:18 - This is error : clsm
+2018-10-14 00:38:19 FATAL HelloExample:19 - This is fatal : clsm
+2018-10-14 11:19:59 DEBUG HelloExample:10 - This is debug : clsm
+2018-10-14 11:19:59 INFO  HelloExample:14 - This is info : clsm
+2018-10-14 11:19:59 WARN  HelloExample:17 - This is warn : clsm
+2018-10-14 11:19:59 ERROR HelloExample:18 - This is error : clsm
+2018-10-14 11:19:59 FATAL HelloExample:19 - This is fatal : clsm
